@@ -6,7 +6,6 @@ Main portfolio page for angelyoung.design. It contains an about, projects, resum
 For future versions:
 * I will use GatsbyJS instead of HTML, CSS/SASS, and JS
  
-
 ## Live Link
 App available on: www.angelyoung.design
 
